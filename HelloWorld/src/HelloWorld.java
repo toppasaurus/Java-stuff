@@ -5,6 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world!");
 		System.out.println("You kinda suck sometimes!");
+		System.out.println("Seriously. You do.");
 
 	}
 
